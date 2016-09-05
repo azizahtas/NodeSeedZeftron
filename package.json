@@ -1,14 +1,14 @@
 {
-  "name": "portfolioapi",
+  "name": "NodeSeedZeftron",
   "version": "1.0.0",
-  "description": "An Api for feeding Data to My portfollio Website",
+  "description": "An Api With Node And Express!",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/azizahtas/PortfollioApi.git"
+    "url": "git+https://github.com/azizahtas/NodeSeedZeftron.git"
   },
   "keywords": [
     "portfollio"
@@ -16,9 +16,9 @@
   "author": "Aziz Ahtas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/azizahtas/PortfollioApi/issues"
+    "url": "https://github.com/azizahtas/NodeSeedZeftron/issues"
   },
-  "homepage": "https://github.com/azizahtas/PortfollioApi#readme",
+  "homepage": "https://github.com/azizahtas/NodeSeedZeftron#readme",
   "dependencies": {
     "body-parser": "*",
     "cookie-parser": "^1.4.3",
