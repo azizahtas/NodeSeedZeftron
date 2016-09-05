@@ -1,5 +1,5 @@
 {
-  "name": "NodeSeedZeftron",
+  "name": "nodeseedzeftron",
   "version": "1.0.0",
   "description": "An Api With Node And Express!",
   "main": "app.js",
